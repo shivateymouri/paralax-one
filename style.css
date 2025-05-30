@@ -491,7 +491,7 @@ footer {
   width: 100%;
   position: fixed;
   bottom: 0;
-  right: 0;
+  right: 60px;
   background-color: transparent;
   display: flex;
   justify-content: center;
